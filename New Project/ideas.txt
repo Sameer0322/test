@@ -1,0 +1,49 @@
+1)Movies Catalogue
+2)Portfolio 
+3)Chrome Extensions
+4)E-Commerce Website
+5)Community Application
+6)Clone
+7)Hiring Site
+
+
+
+Ecommerce--PEACHY PANDA
+
+mobile designs 
+laptop designs
+stickers 
+badges
+auto generated 
+manual mode
+points
+photo search
+language barrier
+status update
+customer login
+sign out
+customer contributed
+about us
+password encryption
+
+
+1715054063
+
+
+
+
+semaphor
+
+deadlock prevention / banker algo
+
+critical section
+
+ipc-message passing
+   - shared memory
+   - interprocess comm
+fifo
+Lru
+srf/sjf/srs/sjm
+lampord
+vector clock
+REONA KIRISHIMA

@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background-color: #3C4048;
+}
+.btns{
+  margin-top: 40px;
+}
+.btn{
+  margin: 10px;
+}
+.frm{
+  background-color: white;
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 50px;
+}
+.i h1{
+  color: grey;
+}
+.acc{
+  border-radius: 50%;
+}
+
+.foot{
+  margin-top: 50px;
+  color: white;
+  background-color: #181818;
+  padding: 2px;
+}
